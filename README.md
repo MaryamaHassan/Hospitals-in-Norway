@@ -3,6 +3,8 @@ The project is a detailed analysis of the hospital trusts in Norway, examining t
 
 Visualisations, including bar charts and count plots, reveal key insights such as the trend of hospital trust establishments peaking in 2001-2002 and the dominance of the Southern and Eastern Norway region in terms of staffing. This region has the highest number of employees, primarily due to Oslo University Hospital, which alone employs over 24,000 people, highlighting its significance as a medical and research hub.
 
+---
+
 ### Conclusion
 This analysis successfully uncovers the organisational landscape of Norway's healthcare system, demonstrating how resources and personnel are allocated across different regions. The data indicates a concentration of healthcare infrastructure in Southern and Eastern Norway, reflecting the strategic importance of Oslo and its central role in medical research and services.
 
