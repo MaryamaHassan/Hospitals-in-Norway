@@ -9,3 +9,8 @@ Visualisations, including bar charts and count plots, reveal key insights such a
 This analysis successfully uncovers the organisational landscape of Norway's healthcare system, demonstrating how resources and personnel are allocated across different regions. The data indicates a concentration of healthcare infrastructure in Southern and Eastern Norway, reflecting the strategic importance of Oslo and its central role in medical research and services.
 
 The project underscores the value of data visualisation in presenting complex health data effectively, making it an impactful addition to a professional portfolio. It can serve as a foundational analysis for anyone interested in regional healthcare planning or looking to explore how data-driven decisions can optimise resource distribution in the healthcare sector.
+
+![hospital output-3](https://github.com/user-attachments/assets/3b438c4a-9854-43b6-91f8-8e9322f45927)
+![hospital output-2](https://github.com/user-attachments/assets/3bc41a9a-58ea-4f5e-a607-f191207804bf)
+![hospital output](https://github.com/user-attachments/assets/02e1bf86-33e9-435b-8c0b-214d7c43fcfb)
+
